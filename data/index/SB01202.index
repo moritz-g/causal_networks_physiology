@@ -1,0 +1,10 @@
+EDFversion        : 0       
+PatientID         : sb01202                                                                         
+RecordID          : Night: 2                                                                        
+startDate         : 31.08.99
+startTime         : 22.56.12
+headerSize        : 4352    
+reserved          :                                             
+numberDataRecord  : -1      
+dataRecordDuration: 1       
+numberSignals     : 16  

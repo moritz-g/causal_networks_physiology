@@ -1,0 +1,10 @@
+EDFversion        : 0       
+PatientID         : ma02602                                                                         
+RecordID          : Somnologica data file                                                           
+startDate         : 02.10.99
+startTime         : 21:25:00
+headerSize        :     4608
+reserved          :                                             
+numberDataRecord  :     3468
+dataRecordDuration:       10
+numberSignals     :   17

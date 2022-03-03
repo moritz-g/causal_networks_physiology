@@ -1,0 +1,3 @@
+#L Note: The best quality respiration signal was chosen manualy for each subject out of the 3 respiration signals.
+#L It may be that there are some laboratory correlations.
+B000102	Airflow
