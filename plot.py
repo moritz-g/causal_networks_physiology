@@ -199,10 +199,10 @@ tests = [
 
 testnames = [
     "Granger-causality",
-    "PRSA: Kolmogorov-Smirnov one-sided",
-    "PRSA: Anderson-Darling",
-    "PRSA: Kolmogorov-Smirnov two-sided",
-    "PRSA: Shapiro-Wilk",
+    "BPRSA: Kolmogorov-Smirnov one-sided",
+    "BPRSA: Anderson-Darling",
+    "BPRSA: Kolmogorov-Smirnov two-sided",
+    "BPRSA: Shapiro-Wilk",
 ]  # for creating the diagram titles
 colors = [cmcrameri.cm.imolaS(ii) for ii in [0, 2, 17, 1, 3]]
 fig, ax = plt.subplots(figsize=(6, 6))
